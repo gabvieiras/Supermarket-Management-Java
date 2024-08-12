@@ -1,4 +1,4 @@
-# Supermarket-Management-Java.github.io
+# Supermarket-Management-Java
 
 Certainly! Here's the translation of your description into English:
 
